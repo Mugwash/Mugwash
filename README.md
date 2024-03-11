@@ -3,8 +3,8 @@
 I'm a Senior Analyst specialising in Data, Software & AI with over 3 years of experience. I'm currently based in Central Manchester.
 
 ## 🌐 Portfolio Website
-You can find my self-developed portfolio here.
-https://jackgrime.mugstudios.co.uk/
+-You can find my self-developed portfolio here.
+-https://jackgrime.mugstudios.co.uk/
 
 ## 📫 How to reach me
 - Email: Jackgrimework@gmail.com
