@@ -9,6 +9,7 @@ https://jackgrime.mugstudios.co.uk/
 ## 📫 How to reach me
 - Email: Jackgrimework@gmail.com
 - LinkedIn: Jack Grime
+- https://www.linkedin.com/in/jackgrime/
 
 ## 💻 Languages
 - Python (Strongest - Azure AI and Data Engineering)
