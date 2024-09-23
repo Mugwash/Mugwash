@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jack Grime!
 
-I'm a Senior Analyst specialising in Data, Software & AI with over 3 years of experience. I'm currently based in Central Manchester.
+I'm a Senior Analyst specialising in Data, Software & AI with over 4 years of experience. I'm currently based in Central Manchester.
 
 ## 🌐 Website (Outdated)
 -You can find my self-developed portfolio here https://jackgrime.mugstudios.co.uk/
