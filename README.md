@@ -36,3 +36,4 @@ I've been working remotely on various projects at DXC since 2020. Some of the pr
 - **Data Engineer (Python)** for Glanbia (July 2022 - November 2022)
 - **Project Delivery and Management** for Central Bank of Ireland (February 2021 - July 2022)
 - **Machine Learning Proof of Concept (Python)** (Internal, September 2020 - February 2021)
+- test
